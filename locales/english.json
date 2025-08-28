@@ -10,7 +10,6 @@
         "DiscordRPC:Tab": "%1 Tab",
         "Holidays:StatusNewYears": "Happy New Year!",
         "Holidays:StatusAnniversary": "It's NVG's %1 anniversary!",
-        "Holidays:StatusBirthday": "It's KiwifruitDev's %1 birthday!",
         "Holidays:StatusHalloween": "Happy Halloween!",
         "Holidays:StatusChristmas": "Happy Holidays!",
         "Holidays:OrdinalSuffixSt": "%1st",
@@ -152,8 +151,8 @@
         "Library:Title": "Library",
         "Library:Tooltip": "View imported media and previous renders.",
         "Library:AskToDelete": "Delete?",
-        "Library:NextPageDescription": "Next Page",
-        "Library:PreviousPageDescription": "Previous Page",
+        "Library:BackButton": "Back",
+        "Library:NextButton": "Next",
         "Library:VideoTitle": "Video",
         "Library:AudioTitle": "Audio",
         "Library:ImageTitle": "Image",
@@ -265,7 +264,7 @@
         "Game:Title": "Credits",
         "Game:Tooltip": "Play a game to view the credits.",
         "Game:CreditsStart": "Score points to view credits!",
-        "Game:CreditsLeadDeveloper": "Lead Developer:",
+        "Game:CreditsDeveloper": "Developers:",
         "Game:CreditsSoundDesigner": "Sound Designers:",
         "Game:CreditsModerator": "Moderators:",
         "Game:CreditsTranslator": "Translators:",
@@ -458,6 +457,9 @@
         "Interactable:NextMusicTrackTitle": "Next Track",
         "Interactable:NextMusicTrackTooltip": "Skip to the next music track.",
         "Overlay:ExitTooltip": "Exit the program.",
-        "Overlay:FullscreenTooltip": "Toggle media fullscreen mode."
+        "Overlay:FullscreenTooltip": "Toggle media fullscreen mode.",
+        "Overlay:MusicAttribution": "%1 - %2",
+        "Debug:Title": "Debug Menu",
+        "Debug:Tooltip": "Open the debug menu."
     }
 }

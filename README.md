@@ -9,12 +9,12 @@ This repository serves as the issue tracker and wiki for [Nonsensical Video Gene
 **[NEW!]** View the source code [here](https://github.com/NVGPartners/NonsensicalVideoGeneratorSrc).
 
 ## Pages
-- [Issues](https://github.com/KiwifruitDev/NonsensicalVideoGenerator/issues/)
+- [Issues](https://github.com/NVGPartners/NonsensicalVideoGenerator/issues/)
   - Report bugs
   - Suggest features
   - Ask questions
   - *The [Discord](https://discord.gg/8ppmspR6Wh) is more active and may be a better place to ask questions.*
-- [Wiki](https://github.com/KiwifruitDev/NonsensicalVideoGenerator/wiki/)
+- [Wiki](https://github.com/NVGPartners/NonsensicalVideoGenerator/wiki/)
   - Learn how to submit addons to the Workshop
   - View Lua documentation
   - Download branding assets and view the brand guidelines
@@ -29,7 +29,7 @@ If you would like to contribute a translation, please submit a pull request with
 
 Use the `english.json` file as a reference for the token names and values.
 
-Please read the [wiki](https://github.com/KiwifruitDev/NonsensicalVideoGenerator/wiki/) for more information on localization.
+Please read the [wiki](https://github.com/NVGPartners/NonsensicalVideoGenerator/wiki/) for more information on localization.
 
 
 ## Links:
